@@ -1,0 +1,59 @@
+ARCHIVOS EN ESTA CARPETA:
+----------------------------
+1. HERRAMIENTA TECNICA MULTI USO.ps1 → Programa principal
+2. Configurar.bat → Para instalación FIJA (1 solo uso)
+3. Ejecutar.bat → Para uso PORTABLE (doble click)
+4. LEEME.txt → Estas instrucciones
+
+🎯 ¿QUÉ TIPO DE USO NECESITAS?
+-------------------------------
+
+🔧 USO FIJO (en este PC):
+-------------------------
+1. MOVER primero esta carpeta COMPLETA a:
+   C:\Users\%USERNAME%\Documents\HerramientaTecnica\
+   (Otra ubicación permanente)
+
+2. Ejecutar "Configurar.bat" (SOLO 1 VEZ)
+   • Crea acceso directo en Escritorio
+   • Configura permisos de PowerShell
+
+3. Usar acceso directo "Herramienta Tecnica" en Escritorio
+
+⚠️ ADVERTENCIA USO FIJO:
+• Configurar.bat es de UN SOLO USO
+• Después de ejecutarlo NO MOVER la carpeta
+• Si mueves: Borrar acceso directo y volver a ejecutar Configurar.bat
+
+🔄 USO PORTABLE (USB/Mover):
+----------------------------
+• Doble click en "Ejecutar.bat"
+• NO necesita Configurar.bat
+• Funciona desde cualquier carpeta/USB
+• No deja acceso directo en el sistema
+
+🚀 INSTRUCCIONES RÁPIDAS:
+-------------------------
+PARA USO FIJO (Recomendado si solo usarás en este PC):
+1. Mover carpeta → Documentos
+2. Ejecutar Configurar.bat (1 vez)
+3. Usar acceso directo en Escritorio
+
+PARA USO PORTABLE (Recomendado para USB/mover):
+1. Copiar carpeta completa a USB/otro PC
+2. Doble click en Ejecutar.bat
+3. Listo (sin instalación)
+
+📌 RESUMEN:
+-----------
+🔧 FIJO = Configurar.bat → Acceso directo en Escritorio
+🔄 PORTABLE = Ejecutar.bat → Funciona desde cualquier lado
+
+❌ ERROR COMÚN:
+No ejecutes Configurar.bat si quieres uso portable.
+Solo Ejecutar.bat es suficiente para portable.
+
+✅ FLUJO CORRECTO:
+[COPIAR CARPETA] → [¿FIJO o PORTABLE?] → 
+FIJO: Mover → Configurar.bat → Acceso directo
+PORTABLE: Ejecutar.bat → Listo

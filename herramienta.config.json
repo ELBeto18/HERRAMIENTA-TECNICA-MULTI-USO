@@ -1,0 +1,6 @@
+﻿{
+    "UpdateManifestUrl":  "",
+    "AutoCheck":  false,
+    "TimeoutSec":  6,
+    "RequireHash":  true
+}

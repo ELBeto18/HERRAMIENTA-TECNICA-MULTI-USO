@@ -1,0 +1,13 @@
+🎯 HERRAMIENTA TECNICA - BMA
+
+🔧 USO FIJO (en este PC):
+1. Mover carpeta a Documentos
+2. Ejecutar Configurar.bat (1 SOLA VEZ)
+3. Usar acceso directo en Escritorio
+
+🔄 USO PORTABLE (USB/mover):
+1. Doble click en Ejecutar.bat
+2. Listo
+
+⚠️ Configurar.bat = SOLO para instalación fija
+✅ Ejecutar.bat = Para uso portable inmediato
