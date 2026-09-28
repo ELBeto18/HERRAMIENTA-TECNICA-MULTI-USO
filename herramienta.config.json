@@ -1,6 +1,8 @@
 ﻿{
     "UpdateManifestUrl":  "",
     "AutoCheck":  false,
+    "UpdateManifestUrl":  "https://github.com/ELBeto18/HERRAMIENTA-TECNICA-MULTI-USO",
+    "AutoCheck":  true,
     "TimeoutSec":  6,
     "RequireHash":  true
 }
